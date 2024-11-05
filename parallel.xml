@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test name="chromeTest">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="chrome"/>
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="testCases.TC_004_Cousera"/>
+            <class name="testCases.TC_001_SearchForWebDevelopmentCourses"/>
+            <class name="testCases.TC_002_Language_Learning"/>
+            <class name="testCases.TC_003_FormFilling"/>
+        </classes>
+    </test>
+    <test name="edgeTest">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="edge"/>
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="testCases.TC_004_Cousera"/>
+            <class name="testCases.TC_001_SearchForWebDevelopmentCourses"/>
+            <class name="testCases.TC_002_Language_Learning"/>
+            <class name="testCases.TC_003_FormFilling"/>
+        </classes>
+    </test>
+</suite>

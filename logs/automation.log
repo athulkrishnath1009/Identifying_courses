@@ -1,0 +1,69 @@
+2024-11-03 11:31:40 INFO  TC_001_SearchForWebDevelopmentCourses:25 - Navigating to Home Page
+2024-11-03 11:31:40 INFO  TC_001_SearchForWebDevelopmentCourses:29 - Searching for 'Web Development' courses
+2024-11-03 11:31:50 INFO  TC_001_SearchForWebDevelopmentCourses:41 - No visible product found, applying filters
+2024-11-03 11:31:50 INFO  TC_001_SearchForWebDevelopmentCourses:45 - English checkbox ticked
+2024-11-03 11:31:50 INFO  TC_001_SearchForWebDevelopmentCourses:47 - Beginners checkbox ticked
+2024-11-03 11:31:52 INFO  TC_001_SearchForWebDevelopmentCourses:61 - Course 1: Title: Introduction to Web Development, Rating: 4.7, Length: Beginner · Course · 1 - 4 Weeks
+2024-11-03 11:31:52 INFO  TC_001_SearchForWebDevelopmentCourses:61 - Course 2: Title: Web Design for Everybody: Basics of Web Development & Coding, Rating: 4.7, Length: Beginner · Specialization · 3 - 6 Months
+2024-11-03 11:31:53 INFO  TC_001_SearchForWebDevelopmentCourses:66 - Screenshot taken for courses
+2024-11-03 11:31:54 INFO  TC_001_SearchForWebDevelopmentCourses:102 - Assertion passed: Search results are visible
+2024-11-03 11:31:54 INFO  TC_001_SearchForWebDevelopmentCourses:103 - Test case: SearchForWebDevelopmentCourses completed
+2024-11-03 11:32:04 INFO  TC_002_Language_Learning:20 - Starting test case: selectingLanguages
+2024-11-03 11:32:04 INFO  TC_002_Language_Learning:24 - HomePage object created
+2024-11-03 11:32:09 INFO  TC_002_Language_Learning:28 - Performed search for 'Language Learning'
+2024-11-03 11:32:09 INFO  TC_002_Language_Learning:32 - LanguageLearningPage object created
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:43 - No visible product found, clicking 'Show More'
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:45 - 'Show More' clicked
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:53 - Screenshot taken for languages learning
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:55 - LANGUAGES:
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 1: English(4,210)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 2: Spanish(2,384)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 3: Arabic(2,264)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 4: French(2,251)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 5: Portuguese (Brazil)(2,238)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 6: German(2,200)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 7: Chinese (China)(2,195)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 8: Indonesian(2,192)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 9: Japanese(2,180)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 10: Korean(2,178)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 11: Turkish(2,144)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 12: Ukrainian(2,143)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 13: Italian(2,136)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 14: Russian(2,132)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 15: Thai(2,122)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 16: Hindi(2,121)
+2024-11-03 11:32:19 INFO  TC_002_Language_Learning:61 - Language 17: Polish(2,119)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 18: Swedish(2,119)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 19: Dutch(2,118)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 20: Greek(2,118)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 21: Kazakh(1,955)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 22: Hungarian(1,391)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 23: Pushto(228)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 24: Chinese (Traditional)(16)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 25: Vietnamese(7)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 26: Hebrew(3)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:61 - Language 27: Portuguese(1)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:67 - LEVELS:
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:73 - Level 1: Beginner(2,406)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:73 - Level 2: Intermediate(1,701)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:73 - Level 3: Advanced(178)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:73 - Level 4: Mixed(418)
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:126 - Assertion passed: Search results are visible
+2024-11-03 11:32:20 INFO  TC_002_Language_Learning:127 - Test case: selectingLanguages completed
+2024-11-03 11:32:28 INFO  TC_003_FormFilling:17 - Starting test case: formFilling
+2024-11-03 11:32:28 INFO  TC_003_FormFilling:21 - HomePage object created
+2024-11-03 11:32:36 INFO  TC_003_FormFilling:25 - Clicked on 'For Enterprise'
+2024-11-03 11:32:36 INFO  TC_003_FormFilling:29 - ForEnterprisePage object created
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:33 - Set first name: athul
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:36 - Set last name: krishna
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:39 - Set email: aeVV
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:42 - Set phone: 7.025825658E9
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:45 - Set title: fresher
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:48 - Set number of learners: 5.0
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:51 - Set country: India
+2024-11-03 11:32:37 INFO  TC_003_FormFilling:54 - Set needs: Courses
+2024-11-03 11:32:38 INFO  TC_003_FormFilling:58 - Form submitted
+2024-11-03 11:32:38 INFO  TC_003_FormFilling:62 - Screenshot taken for form filling
+2024-11-03 11:32:38 INFO  TC_003_FormFilling:66 - Error message: Must be valid email.
+example@yourdomain.com
+2024-11-03 11:32:38 INFO  TC_003_FormFilling:71 - Assertion passed: Error message contains expected text
