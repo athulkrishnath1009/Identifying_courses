@@ -54,7 +54,7 @@ public class BaseClass {
 				
 				driver.manage().deleteAllCookies();
 				
-				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 				
 				//Reading url from properties file
 				driver.get(p.getProperty("pageUrl"));
